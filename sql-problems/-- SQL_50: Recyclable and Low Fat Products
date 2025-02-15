@@ -1,6 +1,0 @@
--- SQL_50: Recyclable and Low Fat Products
--- URL: https://leetcode.com/problems/recyclable-and-low-fat-products/
-
-# Write your MySQL query statement below
-SELECT product_id FROM products # "product_id" is the column and "products" is the table
-WHERE low_fats = 'Y' AND recyclable = 'Y'; # "low_fats" and "recyclable" is where we want to grab the information by using "=" to grab the certain row.
