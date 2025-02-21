@@ -1,0 +1,288 @@
+INSERT INTO performance_data
+(
+    athlete_id,
+    date,
+    training_type,
+    exercise,
+    biomechanics_efficiency,
+    heart_rate_variability,
+    reaction_time,
+    sleep_quality_score,
+    fatigue_index
+)
+VALUES
+(
+    1, 
+    '2023-06-05', 
+    'Decision-Making', 
+    'Film Study & Route Timing', 
+    9.2, 
+    65.3, 
+    0.22, 
+    8.5, 
+    4.0
+),
+(
+    2, 
+    '2023-06-06', 
+    'Arm Strength', 
+    'Deep Throws & Velocity Drills', 
+    8.9, 
+    70.1, 
+    0.20, 
+    8.0, 
+    4.5
+),
+(
+    3, 
+    '2023-06-07', 
+    'Accuracy', 
+    'Precision Passing & Target Practice', 
+    9.0, 
+    67.8, 
+    0.21, 
+    8.2, 
+    4.3
+),
+(
+    4, 
+    '2023-06-08', 
+    'Mobility', 
+    'Pocket Movement & Scramble Drills', 
+    8.7, 
+    72.0, 
+    0.23, 
+    7.9, 
+    5.0
+),
+(
+    5, 
+    '2023-06-09', 
+    'Pocket Awareness', 
+    'Blitz Recognition & Play Action', 
+    8.8, 
+    69.2, 
+    0.19, 
+    8.1, 
+    4.7
+),
+(
+    6, 
+    '2023-06-05', 
+    'Explosive', 
+    'Power Cleans & Sprint Acceleration', 
+    9.1, 
+    62.5, 
+    0.19, 
+    7.8, 
+    5.0
+),
+(
+    7, 
+    '2023-06-06', 
+    'Agility', 
+    'Cone Drills & Change of Direction', 
+    8.5, 
+    64.7, 
+    0.18, 
+    8.0, 
+    4.8
+),
+(
+    8, 
+    '2023-06-07', 
+    'Power', 
+    'Sled Drags & Hill Sprints', 
+    9.3, 
+    60.2, 
+    0.20, 
+    7.5, 
+    5.3
+),
+(
+    9, 
+    '2023-06-08', 
+    'Speed', 
+    '40-Yard Dash & Acceleration Training', 
+    9.4, 
+    63.8, 
+    0.17, 
+    8.3, 
+    4.2
+),
+(
+    10, 
+    '2023-06-09', 
+    'Balance', 
+    'One-Legged Squats & Stability Work', 
+    8.6, 
+    66.0, 
+    0.21, 
+    7.9, 
+    5.1
+),
+(
+    11, 
+    '2023-06-05', 
+    'Speed', 
+    '40-Yard Dash & Route Running', 
+    9.4, 
+    68.2, 
+    0.18, 
+    8.2, 
+    4.3
+),
+(
+    12, 
+    '2023-06-06', 
+    'Route Running', 
+    'Cutting & Footwork Precision', 
+    9.0, 
+    65.9, 
+    0.20, 
+    8.5, 
+    4.1
+),
+(
+    13, 
+    '2023-06-07', 
+    'Agility', 
+    'Ladder Drills & Cone Work', 
+    8.8, 
+    64.4, 
+    0.19, 
+    8.0, 
+    4.5
+),
+(
+    14, 
+    '2023-06-08', 
+    'Jump Ball Specialist', 
+    'High-Point Catches & Hand Strength', 
+    9.2, 
+    62.7, 
+    0.22, 
+    7.7, 
+    5.0
+),
+(
+    15, 
+    '2023-06-09', 
+    'Explosiveness', 
+    'Acceleration Work & Plyometrics', 
+    9.1, 
+    69.0, 
+    0.16, 
+    8.1, 
+    4.4
+),
+(
+    16, 
+    '2023-06-05', 
+    'Strength', 
+    'Heavy Squats & Deadlifts', 
+    8.5, 
+    72.5, 
+    0.23, 
+    7.4, 
+    5.5
+),
+(
+    17, 
+    '2023-06-06', 
+    'Pass Protection', 
+    'Hand Placement & Blocking Footwork', 
+    8.8, 
+    74.1, 
+    0.22, 
+    7.9, 
+    5.1
+),
+(
+    18, 
+    '2023-06-07', 
+    'Run Blocking', 
+    'Drive Blocking & Leverage', 
+    9.0, 
+    70.3, 
+    0.24, 
+    7.8, 
+    5.3
+),
+(
+    19, 
+    '2023-06-08', 
+    'Footwork', 
+    'Agility Drills for Linemen', 
+    8.6, 
+    68.0, 
+    0.21, 
+    8.0, 
+    4.9
+),
+(
+    20, 
+    '2023-06-09', 
+    'Power', 
+    'Explosive Lifts & Contact Drills', 
+    8.7, 
+    75.0, 
+    0.19, 
+    7.6, 
+    5.4
+),
+(
+    21, 
+    '2023-06-05', 
+    'Power', 
+    'Sled Pushes & Hand Combat Drills', 
+    8.7, 
+    75.0, 
+    0.24, 
+    7.5, 
+    6.2
+),
+(
+    22, 
+    '2023-06-06', 
+    'Explosiveness', 
+    'Get-Off Drills & Reaction Training', 
+    9.2, 
+    72.8, 
+    0.19, 
+    7.8, 
+    5.8
+),
+(
+    23, 
+    '2023-06-07', 
+    'Strength', 
+    'Heavy Bench Press & Squats', 
+    9.0, 
+    74.3, 
+    0.22, 
+    7.9, 
+    5.5
+),
+(
+    24, 
+    '2023-06-08', 
+    'Hand Technique', 
+    'Rip, Swim, & Club Moves', 
+    8.8, 
+    71.2, 
+    0.20, 
+    8.2, 
+    4.9
+),
+(
+    25, 
+    '2023-06-09', 
+    'Speed Rush', 
+    'Edge Rushing & First Step Quickness', 
+    8.5, 
+    69.5, 
+    0.18, 
+    8.1, 
+    4.7
+)
